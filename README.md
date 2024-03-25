@@ -14,7 +14,7 @@
 
 – Extensive experience with Ansible, modules and playbook creation
 
-### My budgets
+### My badges
 
 [LFS207: Linux System Administration Essentials](https://www.credly.com/badges/147a2419-47c7-4545-8a02-7e684574ddac/public_url)
 
