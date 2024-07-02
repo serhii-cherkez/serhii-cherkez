@@ -2,17 +2,17 @@
 ## DevOps Engineer
 ### Work experience
 
-– Extensive experience with crypto and blockchain technologies from establish infrastructure, hardware and software perspective
+- Established cloud infrastructure from scratch and set up the full cycle of automated deployments and environment creation.
+  
+- Crafting, management, and enhancement of Terraform to provision cloud resources. Creation of Infrastructure as Code templates for safe and predictable resource deployment in the cloud
 
-– Establish networks for organizations, projects with 500+ endpoints / users
+- Heading of the department responsible for the support, system administration, and management of the entire facility, including the servers and network (e.g. 5+ projects with 200+ endpoints/users using MikroTik, Ubiquiti, etc..)
 
-– Deep experience with Linux
+- Leading automation servers deployment and configuration using Ansible.
 
-– Establishing cloud infrastructure from scratch and setuping full cycle of automation deployments and environment creation (AWS, Digital Ocean, Linode)
+- Establishing CI/CD with optimized and secured delivery of required services for smooth release management with required quality gates for development and testing teams
 
-– Deep knowledge with Terraform script creation for establishing Infrastructure as a Code template base process for deploying
-
-– Extensive experience with Ansible, modules and playbook creation
+- Extensive experience with crypto and blockchain technologies, establishing infrastructure from both hardware and software perspectives.
 
 ### My badges
 
