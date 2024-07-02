@@ -14,7 +14,7 @@
 
 - Extensive experience with crypto and blockchain technologies, establishing infrastructure from both hardware and software perspectives.
 
-### My badges
+### Certifications
 
 [LFS207: Linux System Administration Essentials](https://www.credly.com/badges/147a2419-47c7-4545-8a02-7e684574ddac/public_url)
 
