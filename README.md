@@ -15,6 +15,9 @@
 - Extensive experience with crypto and blockchain technologies, establishing infrastructure from both hardware and software perspectives.
 
 ### Certifications
+[DevOps course at Hillel IT-school](https://certificate.ithillel.ua/view/17966687)
+
+[DevOps and Kubernetes. Practical intensive at Prometheus](https://certs.prometheus.org.ua/cert/f3778bc3cd40466586a1a72b908651bb)
 
 [LFS207: Linux System Administration Essentials](https://www.credly.com/badges/147a2419-47c7-4545-8a02-7e684574ddac/public_url)
 
