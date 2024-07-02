@@ -1,6 +1,6 @@
 # Serhii Cherkez
 ## DevOps Engineer
-### Work experience
+### Qualification
 
 - Established cloud infrastructure from scratch and set up the full cycle of automated deployments and environment creation.
   
